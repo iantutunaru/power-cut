@@ -3,8 +3,11 @@ PowerCut is an Android application designed to help users manage and reduce thei
 
 # Features
 **Device Management:** Add and manage your household devices with ease. Enter device names and their average electricity usage to start tracking.
+
 **Away Hours Scheduling:** Set up away hours for each device to indicate periods of non-use, allowing for accurate energy-saving calculations.
+
 **Energy Savings Visualization:** View detailed graphs of your energy savings over time, powered by AndroidPlot, to see the impact of your energy management efforts.
+
 **Persistent Data Storage:** Your device configurations and energy savings data are stored persistently using Android's SharedPreferences, ensuring you don't lose progress between sessions.
 
 # Dependencies
